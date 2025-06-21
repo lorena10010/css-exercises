@@ -10,10 +10,11 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
-  font-size: 20px;
+  font-size: 32px;
   font-weight: bold;
   display: flex;
   align-items: center;
+  padding: 16px;
 }
 
 .footer {
@@ -22,6 +23,7 @@ body {
   color: darkmagenta;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 .sidebar {
